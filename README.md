@@ -11,8 +11,8 @@ Run ipynb notebook file that stored in notebook folder at this repository and en
 ## Output Video 
 
 <div align=center>
-<img  src="https://user-images.githubusercontent.com/33378412/232585326-e127715f-88d5-4d23-aaaf-f47353f85f56.gif" width="400" height="580">
-<img  src="https://user-images.githubusercontent.com/33378412/232608065-2306585a-a39a-44cf-a46e-7bb3c67ca1ab.gif" width="400" height="580"> 
+<img  src="https://user-images.githubusercontent.com/33378412/232585326-e127715f-88d5-4d23-aaaf-f47353f85f56.gif" width="400" height="605">
+<img  src="https://user-images.githubusercontent.com/33378412/232608065-2306585a-a39a-44cf-a46e-7bb3c67ca1ab.gif" width="400" height="605"> 
 </div> 
 
 <br>
